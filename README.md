@@ -1,7 +1,7 @@
 # FoodModel
-Just some side project ig.. still working on it. 
+Just some side project ig.. It performs badly as **the model is in trial and error stage. **
 
-it performs badly currently.
+
 turns out i have to add info about the "side project". so uh... this is a project??? something im working on cuz im bored (again). Anywayss
 
 The model is made using PyTorch and uh yeah idk what else to add. If you get any issues or smth else lmk!
