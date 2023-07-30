@@ -1,5 +1,5 @@
 # FoodModel
-Just some side project ig.. It performs badly as **the model is in trial and error stage. **
+Just some side project ig.. It performs badly as **the model is in trial and error stage.**
 
 
 turns out i have to add info about the "side project". so uh... this is a project??? something im working on cuz im bored (again). Anywayss
