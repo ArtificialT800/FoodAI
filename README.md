@@ -7,3 +7,5 @@ turns out i have to add info about the "side project". so uh... this is a projec
 The model is made using PyTorch and uh yeah idk what else to add. If you get any issues or smth else lmk!
 
 buh byee<3
+
+P.S. Actual readme file coming later <3
