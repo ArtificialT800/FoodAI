@@ -14,3 +14,4 @@ P.S. Actual readme file coming later <3
 1. Get a good performing model from training.
 2. Create different files, one for training the model and the other for using the model to predict the food images from data.
 3. Maybe convert it to `.py`?
+4. Create a requirements.txt file.
