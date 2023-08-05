@@ -16,16 +16,16 @@ What began as a straightforward endeavor formed out of boredom developed into a 
 - If you are new to Google Colab, you might need to sign in with your Google account or create one if you don't have it already. This step is essential to save your progress and access the Colab environment.
 
 3. Familiarize Yourself with the Notebook:
-- Take a moment to review the project notebook and read any instructions provided by the author. The notebook might contain explanations of the project, data loading, model training, evaluation, and visualization steps.
+- Take a moment to review the project notebook.
 
 4. Run the Code Cells:
 - The notebook is divided into code cells. To execute a cell, click on it, and either press "Shift + Enter" or click on the "play" button on the left of the cell. This will run the code in that specific cell.
 
 5. Upload an Image:
-- Following the notebook's instructions, locate the section where you can upload your own image to test the food classifier. You can do this by running the corresponding code cell that allows image uploading.
+- Following the notebook's instructions, locate the "Predicting on new/custom images" section where you can upload your own image to test the food classifier. You can do this by running the corresponding code cell.
 
 6. Get Predictions and Probabilities:
-- After uploading the image, run the cell that makes predictions using the trained model. The classifier will analyze the uploaded image and predict whether it contains pizza, sushi, or steak. The probabilities of each class will also be displayed, indicating the model's confidence in its predictions.
+- After uploading the image, the classifier will analyze the uploaded image and predict whether it contains pizza, sushi, or steak. The probabilities of each class will also be displayed, indicating the model's confidence in its predictions.
 
 7. Interpret the Results:
 - Examine the output to see the model's predictions and the probabilities. This will give you an insight into the model's accuracy and its level of certainty for each class.
