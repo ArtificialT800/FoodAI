@@ -25,7 +25,7 @@ What began as a straightforward endeavor formed out of boredom developed into a 
 - Following the notebook's instructions, locate the "Predicting on new/custom images" section where you can upload your own image to test the food classifier. You can do this by running the corresponding code cell.
 
 6. Get Predictions and Probabilities:
-- After uploading the image, the classifier will analyze the uploaded image and predict whether it contains pizza, sushi, or steak. The probabilities of each class will also be displayed, indicating the model's confidence in its predictions.
+- After uploading the image, the classifier will analyze the uploaded image and predict whether it contains pizza, sushi, or steak. The probability of the predicted class will also be displayed, indicating the model's confidence in its prediction.
 
 7. Interpret the Results:
 - Examine the output to see the model's predictions and the probabilities. This will give you an insight into the model's accuracy and its level of certainty for each class.
